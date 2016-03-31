@@ -1,0 +1,28 @@
+name: joshbeal
+favicon: null
+layout_spectrum: 0.12091199308633804
+typography_spectrum: 0.16687800898216665
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7014815215952694
+  lightness: 0.6771267955191433
+  saturation: 0.7391260643489659
+  rhythmicContrast: 0.5286046075634658
+purpose: []
