@@ -1,28 +1,40 @@
-name: joshbeal
-favicon: null
-layout_spectrum: 0.21365
-typography_spectrum: 0.27362
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#0b0708'
-    - '#de1e43'
-    - '#6c6656'
-    - '#fefefe'
-    - '#dfb89b'
-  brandStrength: 0.7014815215952694
-  lightness: 0.6771267955191433
-  saturation: 0.7391260643489659
-  rhythmicContrast: 0.5286046075634658
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.1469534
+  brandStrength: 0.7132617
+  lightness: 0.5053763
+  brandColors:
+    - '#CECECE'
+    - '#5C6F88'
+    - '#1E2028'
+    - '#88A2C6'
+    - '#BCA477'
+  rhythmicContrast: 0.7741935
+typography_spectrum: 0.27362
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.4587814
+favicon: null
+name: joshbeal
